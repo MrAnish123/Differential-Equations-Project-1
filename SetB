@@ -1,2 +1,2 @@
 # 1) Lotka-Volterra system is non-Linear, non-autonomous first order differenial equation. 
-# 2) the v-nullclines are when
+# 2) the v-nullclines are when the predator population is constant while h-nullclines are when the prey population is constant 
